@@ -1,4 +1,12 @@
 
+| **⛔️** DEPRECATION NOTICE 2025.05.16 **⛔️** |
+|---|
+| This repository was created on 2025, May 16th, and would not generate for over 40 minutes. I kept waiting, but I couldn't keep waiting, so I created [:octocat: `another repository`](https://github.com/seanpm2001/Gurgle_Orcut_Docs/) to take its place. This repository eventually generated some time after 10:30 pm, after I had shut down for the night. |
+| The original name for this repository was `Gurgle_Orcut_Docs` it was renamed to `Gurgle_Orcut_Docs-1` as I prefer the one I already set up last night. |
+| I rarely archive repositories. There was no need to keep this one, so I didn't set it up. It has been archived on 2025, Friday, May 16th. |
+| For further developments, see [:octocat: `Gurgle_Orcut_Docs`](https://github.com/seanpm2001/Gurgle_Orcut_Docs/)
+| - [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) |
+
 ***
 
 # Git-Template (Version 8) by [@Seanpm2001](https://github.com/seanpm2001/)
